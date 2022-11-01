@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inconsolata&family=Lobster&display=swap');
+.container{
+    font-family: 'Bebas Neue', cursive;
+    background-image: linear-gradient(rgb(19, 107, 223),rgb(132, 213, 233));
+    border-radius: 5px;
+}
+.header h1{
+    font-size: 60px;
+}
+h1{
+    padding-top: 15px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+div h2{
+    font-size: 45px;
+}
+.card{
+    font-size: 25px;
+}
+.table{
+    font-size: 25px;
+}
+div h3{
+    font-size: 35px;
+}
